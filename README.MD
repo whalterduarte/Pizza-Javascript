@@ -2,9 +2,7 @@
 <h1 align="center">Projeto de Estudo: Carrinho de Compras</h1>
 
 <!-- Descrição do Projeto -->
-<p align="center">
-  <img src="https://link_para_sua_imagem_ou_logo.png" alt="Logo do Projeto">
-</p>
+
 
 <!-- Índice -->
 <p align="center">
@@ -37,7 +35,7 @@ Neste projeto, foram utilizadas as seguintes tecnologias:
 
 Para executar o projeto em sua própria máquina, siga estas etapas:
 
-1. Clone este repositório: `git clone https://github.com/seu_usuario/seu_projeto.git`.
+1. Clone este repositório: `git clone https://github.com/whalterduarte/Pizza-Javascript/`.
 2. Abra o arquivo `index.html` no seu navegador web.
 
 <!-- Contribuições -->
@@ -48,24 +46,15 @@ Este é um projeto de estudo, mas contribuições são bem-vindas. Se você tive
 <!-- Autor -->
 ## Autor
 
-<p align="center">
-  <img src="https://link_para_sua_foto.jpg" width="150" alt="Foto do Autor">
-</p>
 
-- **Seu Nome**
-- **Seu Email**
-- **Seu Site Pessoal**
-
-<!-- Licença -->
-## Licença
-
-Este projeto está licenciado sob [incluir a licença, se aplicável].
+- **Whalter Duarte**
+- **dev@whalter.com.br**
+- **whalter.com.br**
 
 ---
 
 <p align="center">
-  <a href="https://github.com/seu_usuario/seu_projeto">
-    <img src="https://img.shields.io/github/license/seu_usuario/seu_projeto" alt="Licença">
+  <a href="https://github.com/whalterduarte/Pizza-Javascript/">
   </a>
 </p>
 
