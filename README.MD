@@ -58,4 +58,4 @@ Este é um projeto de estudo, mas contribuições são bem-vindas. Se você tive
   </a>
 </p>
 
-Agradeço por explorar este projeto de estudo. Espero que ele seja útil em sua jornada de aprendizado!
+
