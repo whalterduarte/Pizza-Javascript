@@ -1,5 +1,5 @@
 <!-- Título do Projeto -->
-<h1 align="center">Projeto de Estudo</h1>
+<h1 align="center">Projeto de Estudo: Carrinho de Compras</h1>
 
 <!-- Descrição do Projeto -->
 <p align="center">
@@ -19,26 +19,31 @@
 <!-- Visão Geral -->
 ## Visão Geral
 
-[Inclua aqui uma breve descrição do seu projeto de estudo.]
+Este projeto é um estudo prático sobre carrinho de compras. A intenção é entender como um carrinho de compras funciona em um contexto de comércio eletrônico. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
+
+Você pode conferir o projeto online [aqui](https://pizza.whalter.com.br/).
 
 <!-- Tecnologias Utilizadas -->
 ## Tecnologias Utilizadas
 
-Neste projeto, utilizei as seguintes tecnologias:
+Neste projeto, foram utilizadas as seguintes tecnologias:
 
-- [Liste as tecnologias e ferramentas que você utilizou.]
+- **HTML**: Utilizado para criar a estrutura da página web.
+- **CSS**: Responsável pelo estilo e layout da página.
+- **JavaScript**: Adicionado para tornar a página interativa e implementar funcionalidades do carrinho de compras.
 
 <!-- Como Executar -->
 ## Como Executar
 
-Se você deseja executar este projeto em sua própria máquina, siga estas etapas:
+Para executar o projeto em sua própria máquina, siga estas etapas:
 
-1. [Inclua as instruções de instalação, configuração e execução do projeto.]
+1. Clone este repositório: `git clone https://github.com/seu_usuario/seu_projeto.git`.
+2. Abra o arquivo `index.html` no seu navegador web.
 
 <!-- Contribuições -->
 ## Contribuições
 
-Este é um projeto pessoal de estudo, mas contribuições são bem-vindas. Se você tiver sugestões, correções ou melhorias, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+Este é um projeto de estudo, mas contribuições são bem-vindas. Se você tiver sugestões, correções ou melhorias, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
 <!-- Autor -->
 ## Autor
@@ -47,14 +52,14 @@ Este é um projeto pessoal de estudo, mas contribuições são bem-vindas. Se vo
   <img src="https://link_para_sua_foto.jpg" width="150" alt="Foto do Autor">
 </p>
 
-- [Seu Nome]
-- [Seu Email]
-- [Seu Site Pessoal]
+- **Seu Nome**
+- **Seu Email**
+- **Seu Site Pessoal**
 
 <!-- Licença -->
 ## Licença
 
-Este projeto está licenciado sob a [incluir a licença, se aplicável].
+Este projeto está licenciado sob [incluir a licença, se aplicável].
 
 ---
 
